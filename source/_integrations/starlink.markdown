@@ -39,7 +39,7 @@ The Starlink integration allows you to integrate your [Starlink](https://www.sta
 - Azimuth - The direction Dishy is facing in degrees
 - Elevation - Dishy's current elevation in degrees
 - Uplink throughput - The amount of data being uploaded through user terminal
-- Downlink throughput - The amount of data being downloaded through Starlink
+- Downlink throughput - The amount of data being downloaded through user terminal
 - Last boot time - The time Starlink was last turned on
 - Upload - Total number of bytes uploaded through user terminal
 - Download - Total number of bytes downloaded through user terminal
